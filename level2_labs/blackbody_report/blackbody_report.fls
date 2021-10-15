@@ -1,6 +1,6 @@
-PWD c:\Users\BR\Desktop\blackbody_report
+PWD c:\Users\BR\Desktop\physics_labs\level2_labs\blackbody_report
 INPUT C:\Users\BR\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\BR\Desktop\blackbody_report\blackbody_report.tex
+INPUT c:\Users\BR\Desktop\physics_labs\level2_labs\blackbody_report\blackbody_report.tex
 OUTPUT blackbody_report.log
 INPUT C:\Users\BR\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\BR\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls

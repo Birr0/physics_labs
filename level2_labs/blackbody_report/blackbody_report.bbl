@@ -44,6 +44,14 @@
       \field{volume}{v.354}
       \field{year}{1990}
     \endentry
+    \entry{github}{misc}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://bit.ly/3FNF7RH}}
+      \field{title}{{Analysis available here if required - Blackbody report notebook }}
+      \field{year}{2021}
+    \endentry
     \entry{Baggot}{inbook}{}
       \name{author}{1}{}{%
         {{hash=bef975e760f2455926999f0cdbd1b241}{%
@@ -71,14 +79,6 @@
       \field{pages}{15}
       \range{pages}{1}
     \endentry
-    \entry{github}{misc}{}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://www.github.com/}}
-      \field{title}{{Blackbody report notebook}}
-      \field{year}{2021}
-    \endentry
     \entry{Boltzman}{article}{}
       \name{author}{1}{}{%
         {{hash=9da973956b17fab9f5bf72880171a567}{%
@@ -102,6 +102,34 @@
       \field{title}{Ableitung des Stefan'schen Gesetzes, betreffend die Abhängigkeit der Wärmestrahlung von der Temperatur aus der electromagnetischen Lichttheorie}
       \field{volume}{258}
       \field{year}{1884}
+    \endentry
+    \entry{Wilson}{article}{}
+      \name{author}{2}{}{%
+        {{hash=5fe15adde1f6df7681370fa20f284240}{%
+           family={Penzias},
+           familyi={P\bibinitperiod},
+           given={A.\bibnamedelimi A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=54c1364c7204f558621747c63c8d4309}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={R.\bibnamedelimi W.},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{11ef6cc69de2d1a3198273ea2c7f9b81}
+      \strng{fullhash}{11ef6cc69de2d1a3198273ea2c7f9b81}
+      \strng{bibnamehash}{11ef6cc69de2d1a3198273ea2c7f9b81}
+      \strng{authorbibnamehash}{11ef6cc69de2d1a3198273ea2c7f9b81}
+      \strng{authornamehash}{11ef6cc69de2d1a3198273ea2c7f9b81}
+      \strng{authorfullhash}{11ef6cc69de2d1a3198273ea2c7f9b81}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Astrophysical Journal}
+      \field{title}{A Measurement of Excess Antenna Temperature at 4080 Mc/s.}
+      \field{volume}{142}
+      \field{year}{1965}
     \endentry
     \entry{Martin}{article}{}
       \name{author}{2}{}{%

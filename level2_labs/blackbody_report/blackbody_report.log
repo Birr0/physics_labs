@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.10.9)  15 OCT 2021 12:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.10.9)  15 OCT 2021 16:01
 entering extended mode
-**c:/Users/BR/Desktop/blackbody_report/blackbody_report.tex
-(c:/Users/BR/Desktop/blackbody_report/blackbody_report.tex
+**c:/Users/BR/Desktop/physics_labs/level2_labs/blackbody_report/blackbody_report.tex
+(c:/Users/BR/Desktop/physics_labs/level2_labs/blackbody_report/blackbody_report.tex
 LaTeX2e <2021-06-01> patch level 1
 L3 programming layer <2021-08-27> (C:\Users\BR\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
@@ -383,14 +383,14 @@ Package lastpage Info: Please have a look at the pageslts package at
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(71.13188pt, 472.03123pt, 71.13188pt)
-* v-part:(T,H,B)=(85.35826pt, 614.21436pt, 95.39737pt)
+* v-part:(T,H,B)=(71.13188pt, 628.44073pt, 95.39737pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
 * \textwidth=472.03123pt
-* \textheight=614.21436pt
+* \textheight=628.44073pt
 * \oddsidemargin=-1.1381pt
 * \evensidemargin=-1.1381pt
-* \topmargin=-23.91173pt
+* \topmargin=-38.1381pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -501,7 +501,7 @@ Package pdftex.def Info: task3_fig_a.png  used on input line 80.
 File: task4_fig_a.png Graphic file (type png)
 <use task4_fig_a.png>
 Package pdftex.def Info: task4_fig_a.png  used on input line 131.
-(pdftex.def)             Requested size: 301.14337pt x 150.56065pt.
+(pdftex.def)             Requested size: 301.1261pt x 200.76224pt.
 <task4_fig_b.png, id=26, 433.62pt x 289.08pt>
 File: task4_fig_b.png Graphic file (type png)
 <use task4_fig_b.png>
@@ -518,13 +518,13 @@ File: task5_fig_a.png Graphic file (type png)
 <use task5_fig_a.png>
 Package pdftex.def Info: task5_fig_a.png  used on input line 189.
 (pdftex.def)             Requested size: 301.1261pt x 200.76224pt.
- [5 <./task5_fig_b.png>]
+ [5 <./task5_fig_b.png> <./task5_fig_a.png>]
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 208.
  (C:\Users\BR\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) 
 AED: lastpage setting LastPage
-[6 <./task5_fig_a.png>] (blackbody_report.aux)
+[6] (blackbody_report.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -533,15 +533,15 @@ Package logreq Info: Writing requests to 'blackbody_report.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 10063 strings out of 478927
- 187420 string characters out of 2853957
- 899999 words of memory out of 3000000
- 27800 multiletter control sequences out of 15000+600000
+ 10065 strings out of 478927
+ 187697 string characters out of 2853957
+ 900037 words of memory out of 3000000
+ 27802 multiletter control sequences out of 15000+600000
  448585 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,7n,66p,787b,1204s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 57i,7n,66p,812b,1204s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/BR/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/BR/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/BR/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/BR/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/Users/BR/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/BR/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/BR/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi5.pfb><C:/Users/BR/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi7.pfb><C:/Users/BR/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/BR/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/BR/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/BR/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr5.pfb><C:/Users/BR/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/BR/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/BR/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/BR/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy7.pfb><C:/Users/BR/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb>
-Output written on blackbody_report.pdf (6 pages, 321170 bytes).
+Output written on blackbody_report.pdf (6 pages, 322712 bytes).
 PDF statistics:
  106 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
