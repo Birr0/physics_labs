@@ -1,0 +1,184 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Charney}{article}{}
+      \name{author}{1}{}{%
+        {{hash=89591d0be0c5261b83b864fc2e92bda7}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           given={JG\bibnamedelima Charney},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{89591d0be0c5261b83b864fc2e92bda7}
+      \strng{fullhash}{89591d0be0c5261b83b864fc2e92bda7}
+      \strng{bibnamehash}{89591d0be0c5261b83b864fc2e92bda7}
+      \strng{authorbibnamehash}{89591d0be0c5261b83b864fc2e92bda7}
+      \strng{authornamehash}{89591d0be0c5261b83b864fc2e92bda7}
+      \strng{authorfullhash}{89591d0be0c5261b83b864fc2e92bda7}
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Tellus}
+      \field{number}{4}
+      \field{title}{Numerical Integration of the Barotropic Vorticity Equation}
+      \field{volume}{22}
+      \field{year}{1950}
+    \endentry
+    \entry{Budyko}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4a993d47a55893436c6a5381642f88d6}{%
+           family={Budyko},
+           familyi={B\bibinitperiod},
+           given={M.I.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{4a993d47a55893436c6a5381642f88d6}
+      \strng{fullhash}{4a993d47a55893436c6a5381642f88d6}
+      \strng{bibnamehash}{4a993d47a55893436c6a5381642f88d6}
+      \strng{authorbibnamehash}{4a993d47a55893436c6a5381642f88d6}
+      \strng{authornamehash}{4a993d47a55893436c6a5381642f88d6}
+      \strng{authorfullhash}{4a993d47a55893436c6a5381642f88d6}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Tellus}
+      \field{number}{5}
+      \field{title}{The effect of solar radiation variations on the climate of the Earth}
+      \field{volume}{21}
+      \field{year}{1969}
+    \endentry
+    \entry{Feulner}{article}{}
+      \name{author}{1}{}{%
+        {{hash=af1b4564a04c7373b7f15a3eabaa8b65}{%
+           family={Feulner},
+           familyi={F\bibinitperiod},
+           given={Georg\bibnamedelimb et.\bibnamedelimi al},
+           giveni={G\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim a\bibinitperiod}}}%
+      }
+      \strng{namehash}{af1b4564a04c7373b7f15a3eabaa8b65}
+      \strng{fullhash}{af1b4564a04c7373b7f15a3eabaa8b65}
+      \strng{bibnamehash}{af1b4564a04c7373b7f15a3eabaa8b65}
+      \strng{authorbibnamehash}{af1b4564a04c7373b7f15a3eabaa8b65}
+      \strng{authornamehash}{af1b4564a04c7373b7f15a3eabaa8b65}
+      \strng{authorfullhash}{af1b4564a04c7373b7f15a3eabaa8b65}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Climate}
+      \field{title}{On the Origin of the Surface Air Temperature Difference between the Hemispheres in Earth's Present-Day Climate}
+      \field{volume}{26}
+      \field{year}{2015}
+    \endentry
+    \entry{Gleick}{inbook}{}
+      \name{author}{1}{}{%
+        {{hash=ddbd740240dd6aa21e418cb03f9735f1}{%
+           family={Gleick},
+           familyi={G\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Viking Penguin}%
+      }
+      \strng{namehash}{ddbd740240dd6aa21e418cb03f9735f1}
+      \strng{fullhash}{ddbd740240dd6aa21e418cb03f9735f1}
+      \strng{bibnamehash}{ddbd740240dd6aa21e418cb03f9735f1}
+      \strng{authorbibnamehash}{ddbd740240dd6aa21e418cb03f9735f1}
+      \strng{authornamehash}{ddbd740240dd6aa21e418cb03f9735f1}
+      \strng{authorfullhash}{ddbd740240dd6aa21e418cb03f9735f1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{The Butterfly Effect}
+      \field{title}{Chaos: Making a new science}
+      \field{year}{1987}
+      \field{pages}{18}
+      \range{pages}{1}
+    \endentry
+    \entry{Lacis}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a17d27663bc06ad5bed1b13b82b79244}{%
+           family={Lacis},
+           familyi={L\bibinitperiod},
+           given={A.A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{a17d27663bc06ad5bed1b13b82b79244}
+      \strng{fullhash}{a17d27663bc06ad5bed1b13b82b79244}
+      \strng{bibnamehash}{a17d27663bc06ad5bed1b13b82b79244}
+      \strng{authorbibnamehash}{a17d27663bc06ad5bed1b13b82b79244}
+      \strng{authornamehash}{a17d27663bc06ad5bed1b13b82b79244}
+      \strng{authorfullhash}{a17d27663bc06ad5bed1b13b82b79244}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Aerosol Forcing of Climate. New York: Wiley, pp. 11–42}
+      \field{title}{Climate forcing, climate sensitivity, and climate response: a radiative modeling perspective on atmospheric aerosols.}
+      \field{year}{1995}
+    \endentry
+    \entry{Rose}{misc}{}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://www.atmos.albany.edu/facstaff/brose/classes/ATM623_Spring2015/Notes/Lectures/}}
+      \field{title}{Lecture 2 -Solving the zero-dimensional energy balance model}
+    \endentry
+    \entry{Sellers}{article}{}
+      \name{author}{1}{}{%
+        {{hash=36fdb8104be66de4f819ba97b25ed724}{%
+           family={Sellers},
+           familyi={S\bibinitperiod},
+           given={William\bibnamedelima D.},
+           giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{36fdb8104be66de4f819ba97b25ed724}
+      \strng{fullhash}{36fdb8104be66de4f819ba97b25ed724}
+      \strng{bibnamehash}{36fdb8104be66de4f819ba97b25ed724}
+      \strng{authorbibnamehash}{36fdb8104be66de4f819ba97b25ed724}
+      \strng{authornamehash}{36fdb8104be66de4f819ba97b25ed724}
+      \strng{authorfullhash}{36fdb8104be66de4f819ba97b25ed724}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of applied meterology}
+      \field{title}{A global climatic model based on the energy balance of the Earth-Atmosphere system}
+      \field{volume}{8}
+      \field{year}{1969}
+    \endentry
+    \entry{NASA}{misc}{}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.nasa.gov/topics/earth/features/warmingpoles.html}}
+      \field{title}{What's causing the poles to warm faster than the rest of Earth?}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
