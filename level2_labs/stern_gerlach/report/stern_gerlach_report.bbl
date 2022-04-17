@@ -1,0 +1,148 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Baggot}{inbook}{}
+      \name{author}{1}{}{%
+        {{hash=bef975e760f2455926999f0cdbd1b241}{%
+           family={Baggot},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{bef975e760f2455926999f0cdbd1b241}
+      \strng{fullhash}{bef975e760f2455926999f0cdbd1b241}
+      \strng{bibnamehash}{bef975e760f2455926999f0cdbd1b241}
+      \strng{authorbibnamehash}{bef975e760f2455926999f0cdbd1b241}
+      \strng{authornamehash}{bef975e760f2455926999f0cdbd1b241}
+      \strng{authorfullhash}{bef975e760f2455926999f0cdbd1b241}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{6}
+      \field{title}{The Quantum Story}
+      \field{year}{2011}
+      \field{pages}{52}
+      \range{pages}{1}
+    \endentry
+    \entry{Fraser}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8ebb19cf2820bcbf80e9d222eda06c9a}{%
+           family={Fraser},
+           familyi={F\bibinitperiod},
+           given={Ronald\bibnamedelimb G.\bibnamedelimi J.},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{8ebb19cf2820bcbf80e9d222eda06c9a}
+      \strng{fullhash}{8ebb19cf2820bcbf80e9d222eda06c9a}
+      \strng{bibnamehash}{8ebb19cf2820bcbf80e9d222eda06c9a}
+      \strng{authorbibnamehash}{8ebb19cf2820bcbf80e9d222eda06c9a}
+      \strng{authornamehash}{8ebb19cf2820bcbf80e9d222eda06c9a}
+      \strng{authorfullhash}{8ebb19cf2820bcbf80e9d222eda06c9a}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Royal Society}
+      \field{title}{The effective cross section of the oriented hydrogen atom}
+      \field{volume}{114}
+      \field{year}{1927}
+    \endentry
+    \entry{PT}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d66bf92ba14f9684cd0c000fdc890bdf}{%
+           family={Friedrich},
+           familyi={F\bibinitperiod},
+           given={Bretislav},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{d66bf92ba14f9684cd0c000fdc890bdf}
+      \strng{fullhash}{d66bf92ba14f9684cd0c000fdc890bdf}
+      \strng{bibnamehash}{d66bf92ba14f9684cd0c000fdc890bdf}
+      \strng{authorbibnamehash}{d66bf92ba14f9684cd0c000fdc890bdf}
+      \strng{authornamehash}{d66bf92ba14f9684cd0c000fdc890bdf}
+      \strng{authorfullhash}{d66bf92ba14f9684cd0c000fdc890bdf}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physics Today}
+      \field{number}{56}
+      \field{title}{Stern and Gerlach: How a Bad Cigar Helped Reorient Atomic Physics}
+      \field{volume}{12}
+      \field{year}{2003}
+    \endentry
+    \entry{NIST}{misc}{}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://physics.nist.gov/cgi-bin/cuu/Value?mub}}
+      \field{title}{Fundamental Physical Constants - Bohr magneton}
+    \endentry
+    \entry{SG}{article}{}
+      \name{author}{2}{}{%
+        {{hash=8c82292506fc6f0d1814512927812f8e}{%
+           family={Gerlach},
+           familyi={G\bibinitperiod},
+           given={W},
+           giveni={W\bibinitperiod}}}%
+        {{hash=6754700016c2322244b231e8b0f50d15}{%
+           family={Stern},
+           familyi={S\bibinitperiod},
+           given={O},
+           giveni={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{5c987638f7936bf8bf2e83c42bbdde19}
+      \strng{fullhash}{5c987638f7936bf8bf2e83c42bbdde19}
+      \strng{bibnamehash}{5c987638f7936bf8bf2e83c42bbdde19}
+      \strng{authorbibnamehash}{5c987638f7936bf8bf2e83c42bbdde19}
+      \strng{authornamehash}{5c987638f7936bf8bf2e83c42bbdde19}
+      \strng{authorfullhash}{5c987638f7936bf8bf2e83c42bbdde19}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Zeitschrift für Physik}
+      \field{title}{Der experimentelle Nachweis der Richtungsquantelung im Magnetfeld}
+      \field{volume}{9}
+      \field{year}{1922}
+    \endentry
+    \entry{PHYWE}{misc}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://www.phywe.fr/index.php/fuseaction/download/lrn_file/versuchsanleitungen/P2511111/e/P2511111.pdf}}
+      \field{title}{Stern-Gerlach experiment - PHYWE manual}
+    \endentry
+    \entry{Nobel}{misc}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.nobelprize.org/prizes/physics/1943/summary/}}
+      \field{title}{The Nobel Prize in Physics 1943}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

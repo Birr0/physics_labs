@@ -27,7 +27,7 @@
 \section{Introduction}%
 \label{sec:Introduction}%
 The climate is a complex system made up of many moving components that interact with eachother.
-It has been the dream of many scientists to make predictions about the climate, which became more prevalent with onset of the 'computer age'. Notably Von Neumann the "intellectual father" of this deterministic dream, built his first computer with the
+It has been the dream of many scientists to make predictions about the climate, a dream which became more prevalent with onset of the 'computer age'. Notably Von Neumann the "intellectual father" of this deterministic dream, built his first computer with the
 intention of "controlling the weather". \cite{Gleick}. In fact it was the ENIAC, one of the early computers that Von Neumann worked on, which had some success in numerically solving a model of the climate. \cite{Charney}
 In this report, I will focus on a simple one dimensional energy balance model, derived by Budyko \cite{Budyko} and Sellers \cite{Sellers} and solve this numerically using python.
 %
@@ -39,7 +39,7 @@ The Budyko-Sellers model describes the energy balance of the earth as
   C \frac{\partial T}{\partial t} = \frac{S(\theta)}{4} (1 - \alpha(\theta)) - \tau(\theta)\sigma T^{4} + \frac{K(\theta)}{\cos(\theta)} (\cos(\theta)\frac{\partial T}{\partial \theta})
 \end{equation}
 
-Here C is the specific heat capacity of the earth. The first term of the right hand side is the solar insolation absorbed by the earth taking into account the fraction of radiation reflected, known as the albedo, $ \alpha$. The second term is the output radiation of the earth modelled by the Stefan-Boltzman law, taking into account the fraction of radiation absorbed in the atmosphere, $\tau$. 
+Here C is the specific heat capacity of the earth. The first term on the right hand side is the solar insolation absorbed by the earth taking into account the fraction of radiation reflected, known as the albedo, $ \alpha$. The second term is the output radiation of the earth modelled by the Stefan-Boltzman law, taking into account the fraction of radiation absorbed in the atmosphere, $\tau$. 
 The third term is the heat flow at latitude $ \theta $ governed by Fourier's law. 
 
 \subsection{Derivation of the finite difference equation for the Budyko-Sellers Model}%
@@ -107,7 +107,7 @@ Eliminating the second order of the expansion leaves:
 
 $$ 4T_{m+1} - T_{m+2} = 3T_{m} + 2(\Delta x)\frac{\partial T}{\partial x} \Bigr|_{\substack{m = \pm 1}} $$
 
-However, from equation(7) we can say:
+However, from equation (7) we can say:
 
 \begin{equation}
   T_{m} = \frac{4T_{m+1} - T_{m+2}}{3}
@@ -118,7 +118,7 @@ However, from equation(7) we can say:
 
 \section{Implementation of the finite difference model}
 \subsection{Methodology}
-I used python to generate the solutions to the finite difference model derived from above. The code can be accessed here [\url{https://github.com/Birr0/physics_labs}].
+I used python to generate the solutions to the finite difference model derived from above. The code can be accessed here [\url{https://github.com/Birr0/physics_labs/tree/main/climate_modelling}].
 
 \subsection{Initial results under basic parameter assumptions}
 I first ran the simulation for the following parameters;
@@ -144,7 +144,7 @@ Figure 1 (a) gives a good insight into the overall behaviour of the forward diff
 The line at T = 13.85$^\circ C$ represents the initial setting of the global temperature in the programme.
 It shows that as time progresses the curve becomes narrower and peaks towards the $0 ^\circ $ latitidue. 
 The simulation also shows diminishing returns in terms of temperature increase as time progresses and the system approaches equilibrium.
-I thought that it would be interesting to see how the simulation progressed visually. I have created a short animated version of Figure 1 (a) which is available at this link. [\url{https://github.com/Birr0/physics_labs}]
+I thought that it would be interesting to see how the simulation progressed visually. I have created a short animated version of Figure 1 (a) which is available at this link. [\url{https://github.com/Birr0/physics_labs/blob/main/climate_modelling/climate.gif}]
 
 \begin{figure}[H]%
   \centering%
@@ -155,7 +155,7 @@ I thought that it would be interesting to see how the simulation progressed visu
 Figure 2 is a more initutive respresentation of Figure 1 (a). You can see the gradation in temperature from the dark red at the equator to the deep blues at the poles.
 Figure 2 also is subtle in pointing out the difference in shades of blue between the poles as demonstrated in figure 1 (a). The south pole is slightly cooler than the north pole. 
 Our polynomial equation modelling the albedo as a function of latitude has a larger albedo value at the south pole compared to the north. \cite{Lacis}
-This is to reflect by the year round snow and excess ice at the south pole. \par
+This is to reflect the higher albedo at the south pole due to the year round snow and excess ice at the south pole. \par
 However, there is disagreement between the model with the experimental data. From Feulner et. al \cite{Feulner} there is significant deviation from the CRU dataset (1961-90) at both poles, especially the south pole.
 Factors not included in our model such as the influence of land and ice-sheet elevation results in vastly lower temperatures in Antartica. \cite{Feulner} 
 
@@ -197,7 +197,7 @@ and creates a 'positive' feedback mechanism to increase the temperature of the p
  This reflects a serious limitatiton in my model, were the albedo feedback mechanism is ignored.
 
 \subsection{The thermal conductivity of Earth}
-In our simulation another important parameter to consider is the thermal conductivity, K. 
+In our simulation another important parameter to consider is the thermal conductivity, k. 
 In our simulation it governs the earth's ability to conduct heat across latitudes.
 Figure 5) demonstrates how various values of k influence the temperature distribution for latitude = $0^\circ$.
 
